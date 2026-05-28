@@ -2,6 +2,9 @@
 FoodLens/AppConfig.env
 *.env
 
+# Local Codex working instructions
+.codex.local.md
+
 # macOS
 .DS_Store
 
